@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Sealed: true
+Main-Class: com.melexis.partner.WafermapPublisher
+Class-Path: lib/spring.jar lib/jbossall-client.jar lib/commons-logging.jar lib/applicationContext.xml
+
